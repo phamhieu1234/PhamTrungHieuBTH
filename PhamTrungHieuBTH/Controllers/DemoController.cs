@@ -1,17 +1,17 @@
 using System.Net.NetworkInformation;
 using Microsoft.AspNetCore.Mvc;
+using MVC.Models.Process;
 using PhamTrungHieuBTH.Models;
-using PhamTrungHieuBTH.Models.Process;
 
-namespace PhamTrungHieuBTH.Movie.Controllers
+
+namespace MVC.Controllers
 {
     public class DemoController : Controller    
     {
         //khai bao class theo huong doi tuong
         GiaiPhuongTrinh gpt = new GiaiPhuongTrinh();
-        private dynamic message;
-
-        public IActionResult Index ()
+      
+      public IActionResult Index ()
       {
             return View();
       }
@@ -22,20 +22,23 @@ namespace PhamTrungHieuBTH.Movie.Controllers
         // ep kieu du lieu cua tham so
         double a = Convert.ToDouble(heSoA);
         double b = Convert.ToDouble(heSoB);
-        string thongbao = gpt.GiaiPhuongTrinhBacNhat(a, b);
-        ViewBag.message = thongbao ; 
+        string thongBao = gpt.GiaiPhuongTrinhBacNhat(a, b);
+        ViewBag.mess= thongBao ; 
         return View();
+      }
+       public IActionResult Create ()
+      {
+            return View();
       }
       [HttpPost]
-      public IActionResult Creat(string heSoA, string heSoB, string heSoC)
+      public IActionResult Create(string a, string b, string c)
       {
-        // ep kieu du lieu cua tham so
-        double a = Convert.ToDouble(heSoA);
-        double b = Convert.ToDouble(heSoB);
-        double c = Convert.ToDouble(heSoC);
-        string thongbao = gpt.GiaiPhuongTrinhBacHai(a, b, c);
-        ViewBag.message= thongbao ; 
+        double f = Convert.ToDouble(a);
+        double d = Convert.ToDouble(b);
+        double e = Convert.ToDouble(c);
+        string thongBao = gpt.GiaiPhuongTrinhBacHai( f,d,e );
+        ViewBag.thongBao=thongBao;
         return View();
+        }
       }
     }
-}
