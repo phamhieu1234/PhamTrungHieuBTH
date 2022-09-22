@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\1\PhamTrungHieuBTH\obj\Debug\net6.0\PhamTrungHieuBTH.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\1\PhamTrungHieuBTH\obj\Debug\net6.0\PhamTrungHieuBTH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\1\PhamTrungHieuBTH\obj\Debug\net6.0\PhamTrungHieuBTH.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\1\PhamTrungHieuBTH\obj\Debug\net6.0\PhamTrungHieuBTH.AssemblyInfo.cs
+C:\Users\DELL\Desktop\1\PhamTrungHieuBTH\obj\Debug\net6.0\PhamTrungHieuBTH.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\1\PhamTrungHieuBTH\obj\Debug\net6.0\PhamTrungHieuBTH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\1\PhamTrungHieuBTH\obj\Debug\net6.0\PhamTrungHieuBTH.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\1\PhamTrungHieuBTH\obj\Debug\net6.0\PhamTrungHieuBTH.RazorAssemblyInfo.cs
