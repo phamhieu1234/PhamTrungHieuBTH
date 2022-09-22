@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using PhamTrungHieuBTH.Models;
 
-namespace KieuThiHienBTH.Controllers;
+namespace PhamTrungHieuBTH.Controllers;
 
 public class HomeController : Controller
 {
