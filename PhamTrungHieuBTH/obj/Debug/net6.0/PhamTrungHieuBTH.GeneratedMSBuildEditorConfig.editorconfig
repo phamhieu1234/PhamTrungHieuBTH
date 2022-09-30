@@ -8,89 +8,113 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PhamTrungHieuBTH
 build_property.RootNamespace = PhamTrungHieuBTH
-build_property.ProjectDir = C:\Users\DELL\Desktop\1\PhamTrungHieuBTH\
+build_property.ProjectDir = c:\Users\DELL\Desktop\1\PhamTrungHieuBTH\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DELL\Desktop\1\PhamTrungHieuBTH
+build_property.MSBuildProjectDirectory = c:\Users\DELL\Desktop\1\PhamTrungHieuBTH
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Demo/Create.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Demo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Demo/Index.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Demo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Employee/Create.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Employee/Index.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Home/Index.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Home/Privacy.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Movies/Create.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Movies/Delete.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Movies/Details.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Movies/Edit.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Movies/Index.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Person/Create.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Person/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Person/Index.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Shared/Error.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Student/Create.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/StringProcess/CapitalizeFirstCharacter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xDYXBpdGFsaXplRmlyc3RDaGFyYWN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/StringProcess/CapitalizeOneFirstCharacter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xDYXBpdGFsaXplT25lRmlyc3RDaGFyYWN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/StringProcess/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/StringProcess/LowerToUpper.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xMb3dlclRvVXBwZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/StringProcess/RemoveVietnameseAccents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xSZW1vdmVWaWV0bmFtZXNlQWNjZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/StringProcess/UpperToLower.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5nUHJvY2Vzc1xVcHBlclRvTG93ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Student/Index.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/_ViewImports.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/_ViewStart.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Shared/_Layout.cshtml]
+[c:/Users/DELL/Desktop/1/PhamTrungHieuBTH/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u4fdqxs2h0

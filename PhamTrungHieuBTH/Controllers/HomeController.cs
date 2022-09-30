@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using PhamTrungHieuBTH.Models;
+using String = PhamTrungHieuBTH.Models;
 
 namespace PhamTrungHieuBTH.Controllers;
 
@@ -20,7 +21,7 @@ public class HomeController : Controller
     }
     [HttpPost]
 
-    public IActionResult Index(String FullName, string email)
+    public IActionResult Index(string FullName, string email)
     {
         ViewBag.name = "hello " + FullName + "-" + email;
         return View();
