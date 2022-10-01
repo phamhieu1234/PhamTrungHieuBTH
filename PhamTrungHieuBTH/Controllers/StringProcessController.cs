@@ -13,7 +13,7 @@ using System.Text.Encodings.Web;
             return View();
       }
        StringProcess strP = stringProcess;
-       public IActionResult LowerUpper()
+       public IActionResult LowerToUpper()
         {
             return View();
         }
@@ -38,7 +38,7 @@ using System.Text.Encodings.Web;
             return View();
         }
     //acction de nhan du loieu gui lenV
-    
+    [HttpPost]
     public IActionResult RemoveVietnameseAccents (string strInput)
         {
             string strResult= str.RemoveVietnameseAccents(strInput);
@@ -53,7 +53,7 @@ using System.Text.Encodings.Web;
         return View();
       }
       [HttpPost]
-        public IActionResult LowerUpper(string strInput)
+        public IActionResult LowerToUpper(string strInput)
         {
             string strResult = strP.LowerToUpper(strInput);
             ViewBag.b= strResult;
